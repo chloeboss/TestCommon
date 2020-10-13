@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>TestCommon2._0</RootNamespace>
+    <PackageId>ChloeZ.TestCommon2.0</PackageId>
+    <Authors>Chloe.Z</Authors>
+    <Company>Chloe.Z  TEST LTD</Company>
+    <Description>This libary is aim to privode common method for UI and API test. Like Driver, Report, Test Environment ect</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/chloeboss/TestCommon</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

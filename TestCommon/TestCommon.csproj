@@ -5,6 +5,9 @@
     <Authors>Chloe.Z</Authors>
     <PackageId>ChloeZ.TestCommon</PackageId>
     <Description>This libary is aim to privode common method for UI and API test. Like Driver, Report, Test Environment ect</Description>
+    <RepositoryUrl>https://github.com/chloeboss/TestCommon</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Company>Chloe.Z  TEST LTD</Company>
   </PropertyGroup>
 
 </Project>
