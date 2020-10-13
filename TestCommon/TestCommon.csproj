@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Chloe.Z</Authors>
+    <PackageId>ChloeZ.TestCommon</PackageId>
+    <Description>This libary is aim to privode common method for UI and API test. Like Driver, Report, Test Environment ect</Description>
+  </PropertyGroup>
+
+</Project>
